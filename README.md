@@ -2,7 +2,7 @@
 
 This script is an example of use open and wirte a file to make and equation using latex
 
-Long time ago when i was student there was difficult to get a really good equation editor so I wrote this python script, now a days equation editors are free to use on websites, but this project is a great example to show writing files in python, windows with tkinter, and call external commands with os module. 
+Many years ago, when I was a college student, it was difficult to get a free equation editor, so I made this script, now it is very easy to find a free equation editor, however this script is a simple example for the use of certain python modules.
 
 ## no build in Python modules you need
 
